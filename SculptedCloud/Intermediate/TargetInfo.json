@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SculptedCloud",
+			"Path": "E:\\fork\\SculptedCloud\\SculptedCloud\\Source\\SculptedCloud.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SculptedCloudEditor",
+			"Path": "E:\\fork\\SculptedCloud\\SculptedCloud\\Source\\SculptedCloudEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
